@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Bailando/Bailando_ULTRA.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_ULTRA.hd.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_MID.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_MID.hd.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_LOW.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_LOW.hd.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_HIGH.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando_HIGH.hd.webm": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.webm",
+        "jmcs://jd-contents/Bailando/Bailando.ogg": "https://cdn.glitch.com/32f6cf6a-f5d7-4d68-a1ae-beb628a4f73a%2Fbailando.ogg"
+    }
+}
